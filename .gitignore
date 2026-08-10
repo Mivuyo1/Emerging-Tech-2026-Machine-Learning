@@ -1,1 +1,10 @@
+# Python bytecode & environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
 
+# ML model checkpoints & temporary datasets
+*.pkl
+*.joblib
+*.h5
